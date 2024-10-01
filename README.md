@@ -7,30 +7,30 @@
 ## 🔵Na página principal no seu perfil do github, vá em "repositórios".
 
 <div>
- <img src="passo1/REPOSITÓRIO.png" width="490px">
+ <img src="Passo1/REPOSITÓRIO.png" width="490px">
 </div>
 
 ## 🔵A seguir clique em "NEW" ou "NOVO" no canto esquerdo.
 <div>
- <img src="passo1/NOVO.png" width="490px">
+ <img src="Passo1/NOVO.png" width="490px">
 </div>
 
 ## 🔵Precisa colocar o mesmo nome do seu perfil nesse repositório.
 
 <div>
- <img src="passo1/NOME.png" width="490px">
+ <img src="Passo1/NOME.png" width="490px">
 </div>
 
 ## 🔵Ele precisa ser público.
 
 <div>
- <img src="passo1/public.png" width="490px">
+ <img src="Passo1/public.png" width="490px">
 </div>
 
 ## 🔵Marque a opção "Adicionar um arquivo README" e clique no botão "Criar repositório".
 
 <div>
- <img src="passo1/criar.png" width="490px">
+ <img src="Passo1/criar.png" width="490px">
 </div>
 
 #
@@ -51,20 +51,20 @@
 
 ## 🔵Ao criar o repositório, você é direcionado para essa página! então basta clicar em "Configurar no Desktop".
 <div>
- <img src="passo2/Design sem nome (1).png" width="490px">
+ <img src="Passo2/Design sem nome (1).png" width="490px">
 </div>
 
 ## 🔵Aqui você precisa buscar a pasta que deseja clonar seu repositório, basta clicar em "CHOOSE" e procurar a pasta no seu computador para clonar (se caso não tenha a pasta é só criar na área de trabalho do seu computador).
 <div>
- <img src="passo2/ch.png" width="490px">
+ <img src="Passo2/ch.png" width="490px">
 </div>
 <div>
- <img src="passo2/Design sem nome (2).png" width="490px">
+ <img src="Passo2/Design sem nome (2).png" width="490px">
 </div>
 
 ## 🔵Próximo passo é abrir o Visual Studio Code, no próprio Github Desktop vai te dar essa opção logo após você clonar a pasta.
 <div>
- <img src="passo2/vs.png" width="490px">
+ <img src="Passo2/vs.png" width="490px">
 </div>
 
 ## 🔵Agora precisamos criar o arquivo em markdown, para começar a codar. Basta clicar em "ARQUIVOS" depois "NOVO ARQUIVO" e nomear como MARKDOWN.MARKDOWN.
