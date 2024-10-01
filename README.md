@@ -5,6 +5,7 @@
 <h1 align="center">1️⃣Primeiro passo: Criar um repositório para armazenar nosso código.1️⃣</h1>
 
 ## 🔵Na página principal no seu perfil do github, vá em "repositórios".
+
 <div>
  <img src="passo1/REPOSITÓRIO.png" width="490px">
 </div>
@@ -15,16 +16,19 @@
 </div>
 
 ## 🔵Precisa colocar o mesmo nome do seu perfil nesse repositório.
+
 <div>
  <img src="passo1/NOME.png" width="490px">
 </div>
 
 ## 🔵Ele precisa ser público.
+
 <div>
  <img src="passo1/public.png" width="490px">
 </div>
 
 ## 🔵Marque a opção "Adicionar um arquivo README" e clique no botão "Criar repositório".
+
 <div>
  <img src="passo1/criar.png" width="490px">
 </div>
