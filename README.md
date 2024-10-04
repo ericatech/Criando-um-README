@@ -10,7 +10,7 @@
  <img src="Passo1/REPOSITÓRIO.png" width="490px">
 </div>
 
-## 🔵A seguir clique em "NEW" ou "NOVO" no canto esquerdo.
+## 🔵A seguir clique em "NEW" ou "NOVO" no canto direito.
 <div>
  <img src="Passo1/NOVO.png" width="490px">
 </div>
